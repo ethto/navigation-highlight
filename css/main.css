@@ -12,13 +12,13 @@ body {
   margin: 0;
 }
 
-header{
+header {
   background-color: #ffe500;
   padding-bottom: 4px;
 }
 
 h1 {
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   color: #b20953;
   margin: 0;
   text-align: center;
@@ -54,7 +54,7 @@ a:hover {
 }
 
 h2 {
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   color: #b20953;
   font-size: 1.875rem;
   padding-left: 10px;
@@ -67,7 +67,7 @@ figure {
 
 img {
   width: 100%;
-  display:block;
+  display: block;
 }
 
 p {
